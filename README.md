@@ -73,7 +73,7 @@ Allez sur postman puis dans la barre url, mettez y : http://localhost:8080/api/p
 ```json
 {
  "email": "TAndrian@gmail.com",
-   "password": "lost",
+   "password": "123456",
    "nom":"Tahir",
    "prenom":"Andrian"
 }
