@@ -4,7 +4,7 @@
 
 Pré-requis : installation de docker sur sa machine. Tuto :  https://docs.docker.com/engine/install/ubuntu/
 
-Une fois docker installé (ou si déjà instllé) executez la commande suivant : 
+Une fois docker installé (ou si déjà installé) executez la commande suivant : 
 
 Pour stop mysql si il est installé sur notre machine
 
